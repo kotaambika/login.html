@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Zoom Metting</title>
+    <link rel="icon" href="C:\web technology\html\Html_Assignments\favicon_io\android-chrome-192x192.png"></link>
+
+</head>
+<body style="background-color: black;">
+    <center> <h1 style="color: blue;font-size: 100px;margin-top: 150px;">EWON</h1></center>
+    <h1 style="color: blue;float: right;margin-right: 400px;margin-top: -70px;font-size: 50px;">Registration</h1><bR>
+
+    <a href="C:\Users\Stability\Desktop\login2.html"><button type="text"  style="height: 40px;width: 150px;text-align: center;color: blue;border-color: blue;margin-left: 590px;" >Log In</button></a><br><br>
+    
+</body>
+</html>
